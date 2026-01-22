@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p><a href='https://www.ualberta.ca/en/computing-science/index.html'>Department of Computing Science, University of Alberta</a></p>
-  <p><a href='https://uais.dev/projects/ai-due-diligence-project/'>Undergraduate Artificial Intelligence Society (UAIS)</a></p>
-  <p><a href='https://albertasoccer.com/programs/referees/'>Alberta Soccer Association</a></p>
+  <a href='https://www.ualberta.ca/en/computing-science/index.html'>Department of Computing Science</a>", "<a href='https://www.ualberta.ca/en/index.html'>University of Alberta</a><br>
+  <a href='https://uais.dev/projects/ai-due-diligence-project/'>Undergraduate Artificial Intelligence Society (UAIS)</a><br>
+  <a href='https://albertasoccer.com/programs/referees/'>Alberta Soccer Association</a>
 
 
 profile:
